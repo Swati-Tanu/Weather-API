@@ -1,4 +1,4 @@
-# Weather-App
+# Weather-API
 
 ### This is a Weather app that enables us to get the weather forecast through server. It is made using Nodejs (packages used are requests and nodemailer).
 
