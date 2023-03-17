@@ -1,6 +1,6 @@
 # Weather-API
 
-### This is a Weather app that enables us to get the weather forecast through server. It is made using Nodejs (packages used are requests and nodemailer).
+### This is a Weather API based website that enables us to get the weather forecast through server. It is made using Nodejs (packages used are requests and nodemailer).
 
 A simple server that enables to get the weather forecast through server using APIs. The application is made using Nodejs (http server), NPM (request package), Javascript, CSS and HTML.
 
